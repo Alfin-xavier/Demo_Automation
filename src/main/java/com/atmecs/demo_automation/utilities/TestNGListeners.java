@@ -1,20 +1,15 @@
 package com.atmecs.demo_automation.utilities;
 
-import java.io.IOException;
-
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
-
 
 public class TestNGListeners implements ITestListener
 {
 
 	public WebDriver driver;
 	
-	TakeScreenshots takeScreenshot = new TakeScreenshots(driver);
-
 	@Override
 	public void onTestStart(ITestResult result) 
 	{
@@ -30,16 +25,9 @@ public class TestNGListeners implements ITestListener
 	@Override
 	public void onTestFailure(ITestResult result) 
 	{
-		System.out.println(result.getName()+" "+"Falied!!");
+		System.out.println(result.getName()+" "+"Failed!!");
 
-		try 
-		{
-			takeScreenshot.takeScreenshot(result.getName());
-		}
-		catch (IOException e) 
-		{
-			e.printStackTrace();
-		}
+		TakeScreenshots.takeScreenshot(driver, result.getName());
 	}
 
 	@Override
