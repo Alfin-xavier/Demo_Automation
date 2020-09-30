@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-09-29T12:10:10 IST" name="Suite" finished-at="2020-09-29T12:12:13 IST" duration-ms="122746">
+  <suite started-at="2020-09-30T18:17:39 IST" name="Suite" finished-at="2020-09-30T18:19:22 IST" duration-ms="102933">
     <groups>
     </groups>
-    <test started-at="2020-09-29T12:10:10 IST" name="Test" finished-at="2020-09-29T12:12:13 IST" duration-ms="122746">
+    <test started-at="2020-09-30T18:17:39 IST" name="Test" finished-at="2020-09-30T18:19:22 IST" duration-ms="102933">
       <class name="com.atmecs.demo_automation.tests.HandlingIconWindows">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@670002]" started-at="2020-09-29T12:10:10 IST" name="beforeTest" finished-at="2020-09-29T12:10:20 IST" duration-ms="9991" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@5e316c74]" started-at="2020-09-30T18:17:39 IST" name="beforeTest" finished-at="2020-09-30T18:17:53 IST" duration-ms="13449" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@670002]" started-at="2020-09-29T12:10:20 IST" name="handlingIconWindows" finished-at="2020-09-29T12:10:50 IST" duration-ms="29857" status="PASS">
+        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@5e316c74]" started-at="2020-09-30T18:17:53 IST" name="handlingIconWindows" finished-at="2020-09-30T18:18:07 IST" duration-ms="14355" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handlingIconWindows -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@670002]" started-at="2020-09-29T12:10:50 IST" name="afterTest" finished-at="2020-09-29T12:10:50 IST" duration-ms="75" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@5e316c74]" started-at="2020-09-30T18:18:07 IST" name="afterTest" finished-at="2020-09-30T18:18:07 IST" duration-ms="83" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.atmecs.demo_automation.tests.HandlingIconWindows -->
       <class name="com.atmecs.demo_automation.tests.Registration">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:10:51 IST" name="beforeTest" finished-at="2020-09-29T12:11:02 IST" duration-ms="11481" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:08 IST" name="beforeTest" finished-at="2020-09-30T18:18:20 IST" duration-ms="11406" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:02 IST" name="registration" data-provider="readData" finished-at="2020-09-29T12:11:05 IST" duration-ms="2760" status="PASS">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:20 IST" name="registration" data-provider="readData" finished-at="2020-09-30T18:18:22 IST" duration-ms="1886" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -66,15 +66,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:05 IST" name="afterTest" finished-at="2020-09-29T12:11:07 IST" duration-ms="1698" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:22 IST" name="afterTest" finished-at="2020-09-30T18:18:26 IST" duration-ms="4291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:07 IST" name="beforeTest" finished-at="2020-09-29T12:11:16 IST" duration-ms="9618" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:26 IST" name="beforeTest" finished-at="2020-09-30T18:18:38 IST" duration-ms="12215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:16 IST" name="registration" data-provider="readData" finished-at="2020-09-29T12:11:18 IST" duration-ms="2301" status="PASS">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:38 IST" name="registration" data-provider="readData" finished-at="2020-09-30T18:18:40 IST" duration-ms="1828" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -115,15 +115,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:18 IST" name="afterTest" finished-at="2020-09-29T12:11:23 IST" duration-ms="4240" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:40 IST" name="afterTest" finished-at="2020-09-30T18:18:40 IST" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:23 IST" name="beforeTest" finished-at="2020-09-29T12:11:34 IST" duration-ms="11764" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:40 IST" name="beforeTest" finished-at="2020-09-30T18:18:50 IST" duration-ms="9674" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:34 IST" name="registration" data-provider="readData" finished-at="2020-09-29T12:11:36 IST" duration-ms="1616" status="PASS">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:50 IST" name="registration" data-provider="readData" finished-at="2020-09-30T18:18:52 IST" duration-ms="1790" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -164,15 +164,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:36 IST" name="afterTest" finished-at="2020-09-29T12:11:40 IST" duration-ms="4318" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:52 IST" name="afterTest" finished-at="2020-09-30T18:18:52 IST" duration-ms="366" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:40 IST" name="beforeTest" finished-at="2020-09-29T12:11:51 IST" duration-ms="10539" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:18:52 IST" name="beforeTest" finished-at="2020-09-30T18:19:03 IST" duration-ms="10542" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:51 IST" name="registration" data-provider="readData" finished-at="2020-09-29T12:11:52 IST" duration-ms="1530" status="PASS">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:19:03 IST" name="registration" data-provider="readData" finished-at="2020-09-30T18:19:04 IST" duration-ms="1850" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -213,15 +213,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:52 IST" name="afterTest" finished-at="2020-09-29T12:11:57 IST" duration-ms="4329" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:19:04 IST" name="afterTest" finished-at="2020-09-30T18:19:09 IST" duration-ms="4326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:11:57 IST" name="beforeTest" finished-at="2020-09-29T12:12:07 IST" duration-ms="9741" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:19:09 IST" name="beforeTest" finished-at="2020-09-30T18:19:20 IST" duration-ms="11021" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:12:07 IST" name="registration" data-provider="readData" finished-at="2020-09-29T12:12:08 IST" duration-ms="1631" status="PASS">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:19:20 IST" name="registration" data-provider="readData" finished-at="2020-09-30T18:19:22 IST" duration-ms="1987" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -262,7 +262,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@1f0f1111]" started-at="2020-09-29T12:12:08 IST" name="afterTest" finished-at="2020-09-29T12:12:13 IST" duration-ms="4325" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@6d2a209c]" started-at="2020-09-30T18:19:22 IST" name="afterTest" finished-at="2020-09-30T18:19:22 IST" duration-ms="464" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
