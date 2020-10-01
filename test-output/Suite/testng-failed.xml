@@ -8,7 +8,7 @@
     <classes>
       <class name="com.atmecs.demo_automation.tests.Registration">
         <methods>
-          <include name="registration"/>
+          <include name="registration" invocation-numbers="0"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>

@@ -1,7 +1,6 @@
 package com.atmecs.demo_automation.tests;
 
 import java.io.IOException;
-
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import com.atmecs.demo_automation.basetest.BaseTest;
