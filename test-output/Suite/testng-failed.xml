@@ -4,15 +4,22 @@
   <listeners>
     <listener class-name="com.atmecs.demo_automation.utilities.TestNGListeners"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="test(failed)">
     <classes>
+      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows">
+        <methods>
+          <include name="handlingIconWindows"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.atmecs.demo_automation.tests.HandlingIconWindows -->
       <class name="com.atmecs.demo_automation.tests.Registration">
         <methods>
-          <include name="registration" invocation-numbers="0"/>
+          <include name="registration"/>
           <include name="beforeTest"/>
           <include name="afterTest"/>
         </methods>
       </class> <!-- com.atmecs.demo_automation.tests.Registration -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

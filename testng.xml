@@ -7,10 +7,26 @@
 			class-name="com.atmecs.demo_automation.utilities.TestNGListeners"></listener>
 	</listeners>
 
-  <test thread-count="5" name="Test">
+  <test thread-count="5" name="test">
     <classes>
       <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
       <class name="com.atmecs.demo_automation.tests.Registration"/>
     </classes>
-  </test> <!-- Test -->
+    </test>
+    
+    <!--  <test thread-count="5" name="firefox" parallel="instances">
+  <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
+      <class name="com.atmecs.demo_automation.tests.Registration"/>
+    </classes>
+    </test>
+    
+     <test thread-count="5" name="ie" parallel="instances">
+  <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
+      <class name="com.atmecs.demo_automation.tests.Registration"/>
+    </classes>
+  </test> --> <!-- Test -->
 </suite> <!-- Suite -->
