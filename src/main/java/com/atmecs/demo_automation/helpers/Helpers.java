@@ -67,7 +67,7 @@ public class Helpers
 	}
 	public void clickingCountry(String xpath)
 	{
-		for(int i=1;i<=4;i++)
+		for(int i=1;i<=5;i++)
 			driver.findElement(By.xpath(xpath)).click();
 			
 	}

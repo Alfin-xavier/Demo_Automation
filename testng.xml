@@ -8,25 +8,18 @@
 	</listeners>
 
   <test thread-count="5" name="test">
+  <parameter name="browser" value="chrome"/>
     <classes>
       <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
       <class name="com.atmecs.demo_automation.tests.Registration"/>
     </classes>
-    </test>
+    </test> 
     
-    <!--  <test thread-count="5" name="firefox" parallel="instances">
+     <test thread-count="5" name="firefox" >
   <parameter name="browser" value="firefox"/>
     <classes>
       <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
       <class name="com.atmecs.demo_automation.tests.Registration"/>
     </classes>
     </test>
-    
-     <test thread-count="5" name="ie" parallel="instances">
-  <parameter name="browser" value="ie"/>
-    <classes>
-      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows"/>
-      <class name="com.atmecs.demo_automation.tests.Registration"/>
-    </classes>
-  </test> --> <!-- Test -->
 </suite> <!-- Suite -->
