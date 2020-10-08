@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Helpers
 {
-	public WebDriver driver;
+public WebDriver driver;
 	
 	public Helpers(WebDriver driver)
 	{
