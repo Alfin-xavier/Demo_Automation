@@ -16,4 +16,16 @@
       </class> <!-- com.atmecs.demo_automation.tests.Registration -->
     </classes>
   </test> <!-- firefox(failed) -->
+  <test thread-count="5" parallel="tests" name="test(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.atmecs.demo_automation.tests.Registration">
+        <methods>
+          <include name="registration" invocation-numbers="1"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.atmecs.demo_automation.tests.Registration -->
+    </classes>
+  </test> <!-- test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

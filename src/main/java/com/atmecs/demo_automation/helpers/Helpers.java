@@ -67,7 +67,7 @@ public WebDriver driver;
 	}
 	public void clickingCountry(String xpath)
 	{
-		for(int i=1;i<=5;i++)
+		for(int i=1;i<=4;i++)
 			driver.findElement(By.xpath(xpath)).click();
 			
 	}

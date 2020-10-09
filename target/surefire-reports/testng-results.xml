@@ -1,318 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="12" passed="7" failed="1" skipped="4">
+<testng-results ignored="0" total="12" passed="6" failed="2" skipped="4">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-08T12:06:35 IST" name="Suite" finished-at="2020-10-08T12:08:42 IST" duration-ms="127059">
+  <suite started-at="2020-10-09T15:34:29 IST" name="Suite" finished-at="2020-10-09T15:39:55 IST" duration-ms="325779">
     <groups>
     </groups>
-    <test started-at="2020-10-08T12:06:35 IST" name="test" finished-at="2020-10-08T12:08:26 IST" duration-ms="111123">
-      <class name="com.atmecs.demo_automation.tests.Registration">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:03 IST" name="beforeTest" finished-at="2020-10-08T12:07:14 IST" duration-ms="11270" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:14 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:07:16 IST" duration-ms="2225" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Shane]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Alfin]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[136/3A adha]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[shanealfin720@gmail.com]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[8.732843748E9]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[alfinxavier.a]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[alfinxavier.a]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:16 IST" name="afterTest" finished-at="2020-10-08T12:07:20 IST" duration-ms="4100" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:20 IST" name="beforeTest" finished-at="2020-10-08T12:07:31 IST" duration-ms="10582" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:31 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:07:33 IST" duration-ms="2081" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Alfin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Xavier]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[23/ashfas]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[alfin.anthonyraj@atmecs.com]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[8.473848374E9]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[aldjd]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[aldjd]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:33 IST" name="afterTest" finished-at="2020-10-08T12:07:37 IST" duration-ms="4339" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:37 IST" name="beforeTest" finished-at="2020-10-08T12:07:51 IST" duration-ms="14068" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:51 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:07:53 IST" duration-ms="1958" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abc]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abc]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[2374/shd]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[abc@gmail.com]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[8.457382473E9]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[shfhj]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[shfhj]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:53 IST" name="afterTest" finished-at="2020-10-08T12:07:54 IST" duration-ms="326" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:07:54 IST" name="beforeTest" finished-at="2020-10-08T12:08:07 IST" duration-ms="13503" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:08:07 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:09 IST" duration-ms="2007" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[bgd]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[bgd]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[zdafhgsdh]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[bgd@gmail.com]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[8.745389843E9]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[kjhg]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[kjhg]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:08:09 IST" name="afterTest" finished-at="2020-10-08T12:08:14 IST" duration-ms="4282" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:08:14 IST" name="beforeTest" finished-at="2020-10-08T12:08:24 IST" duration-ms="9983" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:08:24 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:26 IST" duration-ms="2061" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mnl]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[mnl]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[sdjfh]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[mnl@gmail.com]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[9.845893987E9]]>
-              </value>
-            </param>
-            <param index="5">
-              <value>
-                <![CDATA[hgf]]>
-              </value>
-            </param>
-            <param index="6">
-              <value>
-                <![CDATA[hgf]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@327b636c]" started-at="2020-10-08T12:08:26 IST" name="afterTest" finished-at="2020-10-08T12:08:26 IST" duration-ms="220" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- com.atmecs.demo_automation.tests.Registration -->
+    <test started-at="2020-10-09T15:34:29 IST" name="firefox" finished-at="2020-10-09T15:35:56 IST" duration-ms="86934">
       <class name="com.atmecs.demo_automation.tests.HandlingIconWindows">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6ab7a896]" started-at="2020-10-08T12:06:35 IST" name="beforeTest" finished-at="2020-10-08T12:06:45 IST" duration-ms="10364" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6ab7a896]" started-at="2020-10-08T12:06:45 IST" name="handlingIconWindows" finished-at="2020-10-08T12:07:03 IST" duration-ms="17405" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- handlingIconWindows -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6ab7a896]" started-at="2020-10-08T12:07:03 IST" name="afterTest" finished-at="2020-10-08T12:07:03 IST" duration-ms="135" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterTest -->
-      </class> <!-- com.atmecs.demo_automation.tests.HandlingIconWindows -->
-    </test> <!-- test -->
-    <test started-at="2020-10-08T12:06:35 IST" name="firefox" finished-at="2020-10-08T12:08:42 IST" duration-ms="127059">
-      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6293abcc]" started-at="2020-10-08T12:06:35 IST" name="beforeTest" finished-at="2020-10-08T12:06:48 IST" duration-ms="13039" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@4b44655e]" started-at="2020-10-09T15:34:29 IST" name="beforeTest" finished-at="2020-10-09T15:34:44 IST" duration-ms="14459" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -323,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6293abcc]" started-at="2020-10-08T12:06:48 IST" name="handlingIconWindows" finished-at="2020-10-08T12:06:49 IST" duration-ms="1070" status="PASS">
+        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@4b44655e]" started-at="2020-10-09T15:34:44 IST" name="handlingIconWindows" finished-at="2020-10-09T15:34:45 IST" duration-ms="1292" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handlingIconWindows -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@6293abcc]" started-at="2020-10-08T12:06:49 IST" name="afterTest" finished-at="2020-10-08T12:06:49 IST" duration-ms="237" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@4b44655e]" started-at="2020-10-09T15:34:45 IST" name="afterTest" finished-at="2020-10-09T15:34:45 IST" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.atmecs.demo_automation.tests.HandlingIconWindows -->
       <class name="com.atmecs.demo_automation.tests.Registration">
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:06:50 IST" name="beforeTest" finished-at="2020-10-08T12:07:06 IST" duration-ms="15576" status="PASS">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:34:46 IST" name="beforeTest" finished-at="2020-10-09T15:35:26 IST" duration-ms="40304" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -344,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:07:06 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:40 IST" duration-ms="94536" status="FAIL">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:26 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:47 IST" duration-ms="20176" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -388,8 +83,8 @@
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 *** Element info: {Using=xpath, value=//multi-select//div//ul}]]>
             </message>
             <full-stacktrace>
@@ -397,8 +92,8 @@ Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 *** Element info: {Using=xpath, value=//multi-select//div//ul}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -417,7 +112,7 @@ at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at com.atmecs.demo_automation.helpers.Helpers.clickingCountry(Helpers.java:71)
 at com.atmecs.demo_automation.pagehelper.RegistrationFormFilling.registerationTest(RegistrationFormFilling.java:71)
-at com.atmecs.demo_automation.tests.Registration.registration(Registration.java:28)
+at com.atmecs.demo_automation.tests.Registration.registration(Registration.java:19)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -447,23 +142,23 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:40 IST" name="afterTest" finished-at="2020-10-08T12:08:42 IST" duration-ms="1425" status="FAIL">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:51 IST" name="afterTest" finished-at="2020-10-09T15:35:56 IST" duration-ms="5019" status="FAIL">
           <exception class="org.openqa.selenium.WebDriverException">
             <message>
               <![CDATA[Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -512,11 +207,11 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122255" status="SKIP">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956491" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:56 IST" duration-ms="0" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -560,16 +255,16 @@ at java.base/java.lang.Thread.run(Thread.java:832)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -618,15 +313,19 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122257" status="SKIP">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956493" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122258" status="SKIP">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956494" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:42 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956494" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:56 IST" duration-ms="0" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -670,16 +369,16 @@ at java.base/java.lang.Thread.run(Thread.java:832)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -728,19 +427,15 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122258" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122259" status="SKIP">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956495" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122259" status="SKIP">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956495" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:56 IST" duration-ms="0" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -784,16 +479,16 @@ at java.base/java.lang.Thread.run(Thread.java:832)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -842,11 +537,7 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122260" status="SKIP">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeTest -->
-        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="registration" data-provider="readData" finished-at="2020-10-08T12:08:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:56 IST" duration-ms="0" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -890,16 +581,16 @@ at java.base/java.lang.Thread.run(Thread.java:832)
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551]]>
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.WebDriverException: Failed to decode response from marionette
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 30332, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 48d17713-db7a-4d35-8da4-8c14c0afc551
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 80.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200831163820, moz:geckodriverVersion: 0.27.0, moz:headless: false, moz:processID: 35980, moz:profile: C:\Users\alfin.anthonyraj\A..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: dba5151c-eb87-4bb8-a0c6-e5beeb5994b3
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -948,11 +639,386 @@ at java.base/java.lang.Thread.run(Thread.java:832)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@7995092a]" started-at="2020-10-08T12:08:42 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602139122261" status="SKIP">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="beforeTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956496" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@290d210d]" started-at="2020-10-09T15:35:56 IST" name="afterTest" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1602237956496" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.atmecs.demo_automation.tests.Registration -->
     </test> <!-- firefox -->
+    <test started-at="2020-10-09T15:34:29 IST" name="test" finished-at="2020-10-09T15:39:55 IST" duration-ms="325779">
+      <class name="com.atmecs.demo_automation.tests.HandlingIconWindows">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@f2f2cc1]" started-at="2020-10-09T15:34:29 IST" name="beforeTest" finished-at="2020-10-09T15:34:42 IST" duration-ms="12626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="handlingIconWindows()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@f2f2cc1]" started-at="2020-10-09T15:34:42 IST" name="handlingIconWindows" finished-at="2020-10-09T15:35:24 IST" duration-ms="41833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingIconWindows -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.HandlingIconWindows@f2f2cc1]" started-at="2020-10-09T15:35:24 IST" name="afterTest" finished-at="2020-10-09T15:35:24 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.demo_automation.tests.HandlingIconWindows -->
+      <class name="com.atmecs.demo_automation.tests.Registration">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:35:30 IST" name="beforeTest" finished-at="2020-10-09T15:35:45 IST" duration-ms="15765" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:35:45 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:35:52 IST" duration-ms="6521" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Shane]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Alfin]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[136/3A adha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[shanealfin720@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.732843748E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[alfinxavier.a]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[alfinxavier.a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:35:52 IST" name="afterTest" finished-at="2020-10-09T15:36:02 IST" duration-ms="9942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:36:02 IST" name="beforeTest" finished-at="2020-10-09T15:36:16 IST" duration-ms="14069" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:36:16 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:38:47 IST" duration-ms="150756" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alfin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Xavier]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23/ashfas]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[alfin.anthonyraj@atmecs.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.473848374E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[aldjd]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[aldjd]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//multi-select//div//ul"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.83 (94abc2237ae0c..., userDataDir: C:\Users\ALFIN~1.ANT\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60698}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a4f4bf94941a6cd4e2f9c025b72cf114
+*** Element info: {Using=xpath, value=//multi-select//div//ul}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//multi-select//div//ul"}
+  (Session info: chrome=85.0.4183.121)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-601', ip: '192.168.163.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.83 (94abc2237ae0c..., userDataDir: C:\Users\ALFIN~1.ANT\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:60698}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: a4f4bf94941a6cd4e2f9c025b72cf114
+*** Element info: {Using=xpath, value=//multi-select//div//ul}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at com.atmecs.demo_automation.helpers.Helpers.clickingCountry(Helpers.java:71)
+at com.atmecs.demo_automation.pagehelper.RegistrationFormFilling.registerationTest(RegistrationFormFilling.java:71)
+at com.atmecs.demo_automation.tests.Registration.registration(Registration.java:19)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1510)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:66)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+at java.base/java.lang.Thread.run(Thread.java:832)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:38:47 IST" name="afterTest" finished-at="2020-10-09T15:38:51 IST" duration-ms="4335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:38:51 IST" name="beforeTest" finished-at="2020-10-09T15:39:18 IST" duration-ms="27224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:18 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:39:20 IST" duration-ms="1538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2374/shd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.457382473E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[shfhj]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[shfhj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:20 IST" name="afterTest" finished-at="2020-10-09T15:39:24 IST" duration-ms="4296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:24 IST" name="beforeTest" finished-at="2020-10-09T15:39:36 IST" duration-ms="11339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:36 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:39:37 IST" duration-ms="1714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bgd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bgd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[zdafhgsdh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bgd@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8.745389843E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[kjhg]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[kjhg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:37 IST" name="afterTest" finished-at="2020-10-09T15:39:38 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:38 IST" name="beforeTest" finished-at="2020-10-09T15:39:49 IST" duration-ms="10926" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="registration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:49 IST" name="registration" data-provider="form_filling" finished-at="2020-10-09T15:39:51 IST" duration-ms="1863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mnl]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mnl]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdjfh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[mnl@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.845893987E9]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hgf]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hgf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.atmecs.demo_automation.tests.Registration@3a079870]" started-at="2020-10-09T15:39:51 IST" name="afterTest" finished-at="2020-10-09T15:39:55 IST" duration-ms="4324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.atmecs.demo_automation.tests.Registration -->
+    </test> <!-- test -->
   </suite> <!-- Suite -->
 </testng-results>
