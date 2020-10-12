@@ -1091,3 +1091,347 @@
 [TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
 [TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
 [TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting value from dropdown
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Country
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Year
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Month
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Date
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Password
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Confirm Password
+[TestNG-tests-1] DEBUG com.atmecs.demo_automation.utilities.Logging  - Clicking the Submit button
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Languages
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking on the social icons
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Switching to tabs and handling those windows and getting titles
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-1] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Firstname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Lasttname
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Address
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mail_Id
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Providing Mobile Number
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting the gender
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Selecting Hobbies
+[TestNG-tests-2] INFO  com.atmecs.demo_automation.utilities.Logging  - Clicking Languages
